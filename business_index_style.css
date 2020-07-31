@@ -81,3 +81,24 @@ h1{
   padding-top:5rem;
   padding-bottom:5rem;
 }
+.cta .cta-inner{
+  position: relative;
+  padding: 3rem;
+   margin: 0.5rem;
+   background-color: #e6a756; 
+   /* border:5px solid green; */
+  
+}
+
+.cta .cta-inner:before {
+  border-radius: 5px;
+  content: '';
+  position: absolute;
+  top: -0.5rem;
+  bottom: -0.5rem;
+  left: -0.5rem;
+  right: -0.5rem;
+  border: 5rem solid rgb(55, 0, 255);
+  /* z-index: 1; */
+  z-index:-1;
+}
