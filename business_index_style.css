@@ -46,3 +46,6 @@ h1{
   background-color: violet;
   margin-bottom:5rem;
 }
+.intro{
+  position:relative;
+}
