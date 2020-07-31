@@ -40,3 +40,9 @@ h1{
 #mainNav .navbar-brand{
    color:black;/**************************************************************************/
 }
+/*****************************section*****************************/
+.page-section{
+  margin-top:5rem;
+  background-color: violet;
+  margin-bottom:5rem;
+}
