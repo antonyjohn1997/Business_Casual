@@ -1,0 +1,14 @@
+body{
+    font-family:'Lora';
+    background-image:linear-gradient(rgba(55,22,10,0.65),rgba(55,22,10,0.65)), url("D:/Antony/websites/startbootstrap-business-casual-master/img/bg.jpg");
+    /* background-size: 100px; */
+    /* background-repeat: no-repeat; */
+    /* height:100px; */
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+h1{
+    font-family:'Raleway';
+}
