@@ -71,3 +71,10 @@ h1{
     font-size:3rem;
     font-weight:100;
 }
+/* **************footer *********************/
+.footer{
+    background-color: rgb(48, 9, 9);
+}
+.text-faded{
+    color:grey;
+}
