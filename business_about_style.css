@@ -56,3 +56,16 @@ h1{
 .bg-faded{
     background-color: grey;
 }
+.section-heading{
+    text-transform:uppercase;
+}
+.section-heading .section-heading-upper{
+    display:block;
+    font-size:1rem;
+    font-weight:1000;
+}
+.section-heading .section-heading-lower{
+    display:block;
+    font-size:3rem;
+    font-weight:100;
+}
