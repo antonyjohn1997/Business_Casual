@@ -78,3 +78,18 @@ h1{
 .text-faded{
     color:grey;
 }
+/* ************ *extra
+
+@media (max-width:991px){
+    .aaa{
+       background-color: hotpink;
+       margin-top:10px;
+    }
+   }
+@media (min-width:992px){
+ .aaa{
+    background-color: hotpink;
+    margin-top:-110px;
+ }
+}
+******** extra  */
