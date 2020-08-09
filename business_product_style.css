@@ -40,6 +40,7 @@ body{
 .page-section{
     margin-top:5rem;
     margin-bottom:5rem;
+    background-color: lightcoral;
 }
 .bg-faded{
     /* background-color: honeydew; */
@@ -58,6 +59,35 @@ body{
     font-size:3rem;
     font-weight:100;
 }
+.product-item-title{
+    position:relative;
+    margin-bottom:-3rem;
+    z-index:1;
+    /* background-color: green; */
+}
+.product-item-img{
+    position:relative;
+    z-index:0;
+    max-width:60vw;
+}
+.product-item-description{
+    position:relative;
+    z-index:1;
+    /* max-width:50vw; */
+    margin-top:-3rem;
+}
+p{background-color: lawngreen;}
+/* .product-item-title{ */
+    /* position:relative; */
+    /* margin-bottom:-3rem; */
+    /* display:flex; */
+    /* width:400px; */
+    /* height:300px; */
+    /* right:-500px; */
+    /* top:100px; */
+    
+
+/* } */
 
 /* **************media queries ******************/
 
